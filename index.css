@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bg{
+    display: block;
+    height: 100vh; 
+    width: 100%;
+}
+
+.headline {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    max-width: 30%;
+}
+
+.text {
+    max-width: 33vw;
+    margin: 60px auto;
+}
