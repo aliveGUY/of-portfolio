@@ -6,12 +6,12 @@
 .bg{
     display: block;
     height: 100vh; 
-    width: 100%;
+    width: 100vw;
 }
 
 .headline {
     position: absolute;
-    top: 20%;
+    top: 40%;
     left: 10%;
     max-width: 30%;
 }
