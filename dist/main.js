@@ -41,7 +41,7 @@ loader.load( 'src/3d/meshes/test.gltf', function ( gltf ) {
   desk.play()
   const cup = mixer.clipAction(clips[1]);
   cup.play();
-
+  animate();
 });
 
 
@@ -72,4 +72,4 @@ function animate() {
   renderer.render(scene,camera);
 }
 
-animate();
+
